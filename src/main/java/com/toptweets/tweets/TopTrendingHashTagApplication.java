@@ -8,5 +8,6 @@ public class TopTrendingHashTagApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TopTrendingHashTagApplication.class);	
+		
 	}	
 }
